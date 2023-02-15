@@ -1,5 +1,10 @@
-# iemini-repo
+# Iemini-Repo
+## Repositorio criado na aula de LDS
 
-- Alteração do arquivo .md
+Faculdade FAI.
 
-teste do segundo push
+- LDS
+- Engenharia de Software
+- Banco de dados
+
+> As aulas de LDS são ministradas as 21hrs.
